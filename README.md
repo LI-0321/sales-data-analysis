@@ -90,7 +90,7 @@ My daily task was to:
 
 The core dataset used in this project is:
 
- [`sales data analysis.xlsx`](./sales data analysis.xlsx)
+ [sales data analysis.xlsx](./sales%20data%20analysis.xlsx)
 
 The file demonstrates my ability to manage end-to-end data analysis workflow in Excel, using formulas, filters, and pivot tables to derive business insights.
 
