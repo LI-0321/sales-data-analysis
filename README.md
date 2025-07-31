@@ -77,7 +77,7 @@ My daily task was to:
 
 ---
 
-## ✅ Tools Used
+## Tools Used
 
 **Microsoft Excel**:
   - PivotTable
@@ -87,7 +87,7 @@ My daily task was to:
 
 ---
 
-## 📝 Note
+## Note
 
 This is a reconstructed sample based on actual tasks I performed during my internship. Data has been anonymized and simplified to preserve confidentiality and focus on logic and methodology.
 
