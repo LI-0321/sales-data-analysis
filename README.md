@@ -61,7 +61,7 @@ My daily task was to:
 | Observation | Recommendation |
 |-------------|----------------|
 | North region has highest avg unit price across all products | Focus premium offerings here |
-| Luxury and Customized packages dominate in revenue | Maintain them as F22 core products |
+| Luxury and Customized packages dominate in revenue | Maintain them as core products |
 | South shows low acceptance of Luxury package | Consider repositioning or discounting |
 | Chengdu pays the highest price for Standard packages | Explore niche pricing strategies in small cities |
 | New Energy packages lead unit pricing | Increase promotional visibility |
@@ -73,7 +73,7 @@ My daily task was to:
 **Pivot Tables**:
    - Regional sales breakdown by city and product type
    - Cross-tab view of average unit price by region × package
-   - Daily new city entry and delivery volume tracking
+   - Daily new city entry and delivery tracking
 
 ---
 
