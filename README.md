@@ -84,6 +84,15 @@ My daily task was to:
   - VLOOKUP (used for city matching across dates)
   - Basic filters and formula logic
 
+---
+
+## Data File
+
+The core dataset used in this project is:
+
+ [`sales_data_analysis.xlsx`](./sales_data_analysis.xlsx)
+
+The file demonstrates my ability to manage end-to-end data analysis workflow in Excel, using formulas, filters, and pivot tables to derive business insights.
 
 ---
 
