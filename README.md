@@ -93,7 +93,7 @@ This is a reconstructed sample based on actual tasks I performed during my inter
 
 ---
 
-## 👩🏻‍💻 Author
+## Author
 
 **Zhengjia LI**  
 Master in Management – ESCP Business School  
